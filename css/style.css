@@ -1,14 +1,45 @@
-<<<<<<< HEAD
+main p{
+    font-style: oblique;
+    font-size: medium;
+    width: 200px;
+}
+
+main h1{
+    font-size: xx-large;
+    color: brown;
+}
+main h2{
+    font-size: x-large;
+}
+main h3{
+    font-size: large;
+}
+.lorem{
+    color: purple;
+    background-color: plum;
+}
+    
+body {
+    background-image: url(/img/team.jpg);
+    background-repeat: no-repeat,
+}
+#noor{
+    color: purple;
+    background-color: plum;
+}
+.title{
+    color: brown;
+}
 h3 {
     color: aqua;
     position: fixed;
     width: 100%;
-    text-align: center;
+    text-align : center;
     top: 0;
     font-size: xx-large;
-=======
+}
 body {
     background-image: url(/img/team.jpg);
     background-repeat: no-repeat,
->>>>>>> main
+
 }
