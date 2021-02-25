@@ -30,3 +30,16 @@ body {
 .title{
     color: brown;
 }
+h3 {
+    color: aqua;
+    position: fixed;
+    width: 100%;
+    text-align : center;
+    top: 0;
+    font-size: xx-large;
+}
+body {
+    background-image: url(/img/team.jpg);
+    background-repeat: no-repeat,
+
+}
